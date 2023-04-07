@@ -3,7 +3,7 @@
 	<update>
 		<version>1.1</version>
 		<file>UPDATE1.zip</file>		
-		<html>https://drive.google.com/u/0/uc?id=10XY5gt9LnK6sMof2l3j2HO7TSJOo8sgb&export=download&confirm=t&uuid=6a4d6220-2bbf-4d2e-82c2-a14f968a2dc4&at=ANzk5s4f-lyarxQjYlAG4dWaSsuK:1680879685776</html>		
+		<html>https://drive.google.com/u/0/uc?id=10XY5gt9LnK6sMof2l3j2HO7TSJOo8sgb&amp;export=download&amp;confirm=t&amp;uuid=6a4d6220-2bbf-4d2e-82c2-a14f968a2dc4&amp;at=ANzk5s4f-lyarxQjYlAG4dWaSsuK:1680879685776</html>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>
