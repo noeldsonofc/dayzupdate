@@ -7,5 +7,12 @@
 		<command>false</command>
 		<execute>false</execute>
 	</update>
+	<update>
+		<version>1.2</version>
+		<file>UPDATE1.zip</file>		
+		<html>http://177.75.125.39:82/update1/Mods.zip</html>		
+		<command>false</command>
+		<execute>false</execute>
+	</update>
 
 </root>
