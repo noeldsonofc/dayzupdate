@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<update>
-		<version>1.6</version>
+		<version>1.7</version>
 		<file>UPDATE1.zip</file>		
 		<html>http://177.75.125.39:82/update1/UPDATE1.zip</html>		
 		<command>false</command>
