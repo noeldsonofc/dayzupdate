@@ -7,7 +7,13 @@
 		<command>false</command>
 		<execute>false</execute>
 	</update>
-
+	<update>
+		<version>2.7</version>
+		<file>UPDATE1.zip</file>		
+		<html>http://177.75.125.39:82/update1/config</html>		
+		<command>false</command>
+		<execute>false</execute>
+	</update>
 		<version>2.7</version>
 		<file>UPDATE1.zip</file>		
 		<html>http://177.75.125.39:82/update1/update2.zip</html>		
