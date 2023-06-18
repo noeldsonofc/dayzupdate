@@ -22,7 +22,7 @@
 		<execute>false</execute>
 	</update>
 	<update>
-		<version>3.5</version>
+		<version>3.6</version>
 		<file>UPDATE1.zip</file>		
 		<html>http://177.75.125.39:82/update1/config.zip</html>		
 		<command>false</command>
