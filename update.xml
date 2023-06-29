@@ -15,9 +15,16 @@
 		<execute>false</execute>
 	</update>
 	<update>
-		<version>4.0</version>
+		<version>3.9</version>
 		<file>UPDATE1.zip</file>		
 		<html>http://177.75.125.39:82/update1/update3.zip</html>		
+		<command>false</command>
+		<execute>false</execute>
+	</update>
+		<update>
+		<version>4.0</version>
+		<file>UPDATE1.zip</file>		
+		<html>http://177.75.125.39:82/update1/update4.zip</html>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>
