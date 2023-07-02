@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<update>
-		<version>4.2</version>
+		<version>1.1</version>
 		<file>UPDATE1.zip</file>		
-		<html>http://177.75.125.39:82/update1/update5.zip</html>		
+		<html>http://177.75.125.39:82/update1/DayZ NationZ 1.21.zip</html>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>
