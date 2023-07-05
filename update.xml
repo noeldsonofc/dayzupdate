@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<update>
-		<version>4.2</version>
+		<version>4.3</version>
 		<file>UPDATE1.zip</file>		
-		<html>http://177.75.125.39:82/update1/UPDATE1.zip</html>		
+		<html>http://177.75.125.39:82/update1/Desktop.zip</html>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>
